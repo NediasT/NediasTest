@@ -1,4 +1,4 @@
 [submodule "lib/submodule1"]
 	path = lib/submodule1
 	url = https://github.com/NediasT/submodule1.git
-	branch = .
+	branch = master
