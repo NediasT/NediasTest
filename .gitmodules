@@ -1,5 +1,3 @@
 [submodule "lib/submodule1"]
 	path = lib/submodule1
-	fetchRecurseSubmodules = true
 	url = https://github.com/NediasT/submodule1.git
-	branch = develop
