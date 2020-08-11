@@ -2,7 +2,3 @@
 	path = lib/submodule1
 	url = https://github.com/NediasT/submodule1.git
 	branch = .
-[submodule "lib/submodule2"]
-	path = lib/submodule2
-	url = https://github.com/NediasT/submodule2.git
-	branch = .
